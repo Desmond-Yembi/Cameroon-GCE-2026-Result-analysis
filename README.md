@@ -174,5 +174,5 @@ __ notebooks
 
 - **Author:** _Desmond Yembi_
 - **Contact:** _www.linkedin.com/in/desmond-yembi-4a897621b_
-- **License:** _a"all rights reserved"_
+- **License:** _"All rights reserved"_
 # Cameroon-GCE-2026-Result-analysis
