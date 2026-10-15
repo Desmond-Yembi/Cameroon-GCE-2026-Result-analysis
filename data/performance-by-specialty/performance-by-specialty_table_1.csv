@@ -1,0 +1,19 @@
+﻿S/N,SpecialtyCode,SpecialtyName,Reg,Sat,Absent,Pass,Fail,% Pass
+1,APOP,Agriculture - Poultry Production,5,5,0,5,0,100.0
+2,ACC,Accounting,4701,4664,37,2595,2106,55.64
+3,HEC,Home Economics,762,749,13,395,367,52.74
+4,BEST,Bespoke Tailoring,956,951,5,443,513,46.58
+5,ARM,Automobile Repair Mechanics,1934,1919,15,867,1067,45.18
+6,SAC,Secretarial Administration and Communication,330,326,4,142,188,43.56
+7,ACV,Air Conditioning and Ventilation,89,88,1,38,51,43.18
+8,ELN,Electronics,238,237,1,101,137,42.62
+9,CE-TIL,Civil Engineering-Tiling,34,34,0,14,20,41.18
+10,CJ,Carpentry and Joinery,473,469,4,184,289,39.23
+11,ABP,Automobile Bodywork Painting,8,8,0,3,5,37.5
+12,MKT,Marketing,2620,2581,39,947,1673,36.69
+13,SMW,Sheet Metal Works,452,445,7,158,294,35.51
+14,MAME,Manufacturing Mechanics,37,37,0,13,24,35.14
+15,WF,Welding Fabrication,396,394,2,123,273,31.22
+16,EPS,Electrical Power System,4160,4114,46,1220,2940,29.65
+17,PIS,Plumbing and Installation Systems,196,196,0,51,145,26.02
+18,CE-BC,Civil Engineering - Building Construction,5522,5465,57,1325,4197,24.25

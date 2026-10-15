@@ -1,0 +1,81 @@
+﻿S/N,Code,Subject Name,Regis,sat,Pass,Fail,Grade A,Grade B,Grade C,Grade D,Grade E,Grade U,% Pass
+1,5435,Physical Chemistry,17,16,16,1,0,11,5,0,0,0,100.0
+2,5165,Materials and Paint Technology,15,15,15,0,1,5,9,0,0,0,100.0
+3,5160,Mechanical Construction and Development,15,15,15,0,1,11,3,0,0,0,100.0
+4,5360,Maintenance of Pneumatic and Hydraulic Systems,9,8,8,1,1,4,3,0,0,0,100.0
+5,5370,Maintenance of Electrical Systems,9,8,8,1,0,4,4,0,0,0,100.0
+6,5670,Techniques and Practice of Poultry Production,7,7,7,0,2,5,0,0,0,0,100.0
+7,5680,Slaughtering and Conservation of Poultry Products,7,7,7,0,1,6,0,0,0,0,100.0
+8,5675,Poultry Diseases and their Management,7,7,7,0,0,6,1,0,0,0,100.0
+9,5310,Refrigeration and Air-Conditioning Technology,79,77,76,3,3,15,58,1,0,0,98.7
+10,5305,Refrigeration and Air-Conditioning Electricity,79,79,77,2,6,13,58,2,0,0,97.47
+11,5265,Photovoltaic Systems,257,256,247,10,5,130,112,7,0,0,96.48
+12,5300,Applied Sciences,78,75,72,6,0,5,67,3,0,0,96.0
+13,5415,Welding Fabrication Work,460,446,427,33,64,246,117,8,0,0,95.74
+14,5405,Sheet Metal Works,524,512,486,38,30,421,35,14,7,1,94.92
+15,5212,Tiling Technology and Practice,38,38,36,2,6,18,12,1,0,0,94.74
+16,5010,OHADA Financial Reporting,5020,4938,4666,354,1359,2402,905,196,36,4,94.49
+17,5460,Plumbing Technology,258,258,242,16,2,28,212,13,0,1,93.8
+18,5090,Office and Administrative Management,336,329,303,33,40,112,151,16,4,2,92.1
+19,5185,Fashion Illustration,1403,1398,1275,128,333,398,544,100,8,4,91.2
+20,5380,Manufacturing Technology and Processes,70,65,59,11,0,4,55,5,0,0,90.77
+21,5500,Joinery,563,560,505,58,73,289,143,44,3,0,90.18
+22,5035,"Food, Nutrition and Health",1070,1059,934,136,140,383,411,89,28,3,88.2
+23,5426,Organic Chemistry,17,16,14,3,0,7,7,2,0,0,87.5
+24,5395,Workshop Processes and Materials,984,956,833,151,14,618,201,84,23,1,87.13
+25,5150,Basic Vehicle Technology,15,15,13,2,2,4,7,2,0,0,86.67
+26,5200,Construction Processes and Building Practice,7077,6910,5904,1173,760,2346,2798,791,116,9,85.44
+27,5100,Information Processing,336,329,279,57,71,115,93,33,7,6,84.8
+28,5465,Plumbing Maintenance,258,253,213,45,1,7,205,38,0,0,84.19
+29,5495,Carpentry,563,557,465,98,22,238,205,82,3,0,83.48
+30,5045,Family Life Education and Gerontology,1070,1058,881,189,34,261,586,137,34,1,83.27
+31,5385,Material Science and Processes,70,66,54,16,1,6,47,11,0,0,81.82
+32,5230,"Surveying , Soils Mechanics and Materials",7084,6927,5590,1494,399,1990,3201,1065,160,25,80.7
+33,5040,Resource Management on Home studies,1070,1058,850,220,45,241,564,156,42,5,80.34
+34,5190,Pattern Making and Garment Construction,1403,1394,1099,304,4,219,876,279,6,0,78.84
+35,5245,Electrical Technology and Diagrams,5311,5181,3979,1332,561,2252,1166,928,135,52,76.8
+36,585,Religious Studies,734,712,541,193,152,222,167,66,61,39,75.98
+37,5260,Electronic Systems,257,255,192,65,0,25,167,60,1,0,75.29
+38,520,Commerce,8283,8143,6071,2212,998,1520,3553,1226,388,388,74.55
+39,5430,Chemical Engineering Process,17,15,11,6,0,1,10,4,0,0,73.33
+40,5135,Electrical and Electronic Technology,2741,2696,1944,797,107,453,1384,596,93,3,72.11
+41,5195,Work Organisation,1407,1396,994,413,135,308,551,265,86,42,71.2
+42,5211,"Tiling Materials, Estimates, and Masonry Structures",38,38,27,11,0,8,19,10,0,0,71.05
+43,5070,Digital Marketing,2840,2754,1956,884,22,299,1635,567,170,22,71.02
+44,5490,Carpentry and Joinery Drawing,564,562,397,167,52,198,147,131,23,3,70.64
+45,5065,Sales Methods and Communication,2829,2798,1875,954,170,547,1158,510,293,67,67.01
+46,5420,"Quality, Hygiene, Safety and Environment",9322,9096,5859,3463,161,1740,3958,867,1249,1009,64.41
+47,5225,Building Construction Drawing,7178,7096,4327,2851,913,1647,1767,1079,755,841,60.98
+48,5060,Products Mastery,2835,2805,1709,1126,127,445,1137,530,384,127,60.93
+49,5140,Mechanical Technology,2750,2696,1624,1126,30,232,1362,880,131,5,60.24
+50,5180,Technology of Textiles and Equipment,1404,1393,833,571,1,86,746,414,117,18,59.8
+51,5055,Entrepreneurship,16361,16118,9540,6821,1032,3138,5370,2970,2510,937,59.19
+52,5105,English Language,28473,28260,16338,12135,916,6194,9228,6918,3624,968,57.81
+53,5145,Mechanical Construction Drawing,2820,2766,1585,1235,31,336,1218,742,331,50,57.3
+54,5315,Engineering Drawing,5647,5545,3167,2480,6,248,2913,1254,851,179,57.11
+55,5410,Metal Construction Drawing,461,454,258,203,5,77,176,111,66,5,56.83
+56,5240,Electrical and Electronic Circuits,5328,5203,2922,2406,449,1519,954,1232,716,244,56.16
+57,5005,OHADA Financial Accounting,5373,5343,2996,2377,505,1130,1361,1278,791,229,56.07
+58,5130,Materials Technology and Workshop Processes,2744,2693,1507,1237,27,215,1265,599,529,2,55.96
+59,5120,Law and Government,10341,10116,5653,4688,348,1489,3816,2320,1141,874,55.88
+60,5051,Economic Geography,5633,5469,2781,2852,460,710,1611,1261,960,409,50.85
+61,5425,Analytical Chemistry,17,16,8,9,0,2,6,7,0,1,50.0
+62,5365,Maintenance of Mechanical Systems,9,8,4,5,0,0,4,4,0,0,50.0
+63,562,Citizenship Education,9607,9490,4740,4867,141,1402,3197,2088,1245,1283,49.95
+64,596,Information and Communication Technology,550,462,230,320,16,40,174,120,92,20,49.78
+65,5050,Natural Science,1085,1076,525,560,45,211,269,346,161,38,48.79
+66,5210,Tiling Drawing,38,38,17,21,0,2,15,19,1,0,44.74
+67,5400,Sheet Metal Construction Drawing,524,515,230,294,12,123,95,86,156,38,44.66
+68,545,French,28155,27816,11981,16174,1423,3509,7049,3917,2379,9055,43.07
+69,5015,International Financial Accounting,5062,5029,2135,2927,261,699,1175,1231,1129,491,42.45
+70,5255,Electronic Circuits,257,257,99,158,0,11,88,111,43,2,38.52
+71,5020,Business Mathematics,9257,9095,3498,5759,1085,919,1494,1904,2084,1530,38.46
+72,5155,Engineering Science,19196,18941,6983,12213,111,994,5878,3529,5788,2364,36.87
+73,5455,Plumbing Network Drawing,258,257,93,165,0,3,90,100,54,8,36.19
+74,5095,Professional Communication Techniques,6276,6172,2211,4065,397,776,1038,1396,1221,1288,35.82
+75,5235,Electrical Machines,5345,5220,1575,3770,153,713,709,1080,1669,806,30.17
+76,525,Economics,7664,7566,2260,5404,361,510,1389,1173,2448,1616,29.87
+77,5650,Industrial Computing,14831,13529,3869,10962,4,315,3550,3618,2590,3308,28.6
+78,595,Computer Science,2692,2367,625,2067,11,72,542,293,899,520,26.4
+79,5440,Mathematics,28757,28279,6371,22386,265,620,5486,15104,5807,776,22.53
+80,5685,Taxonomy of Poultry and Basics of Feed Production,7,7,1,6,0,1,0,4,2,0,14.29
